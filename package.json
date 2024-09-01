@@ -1,0 +1,17 @@
+{
+  "name": "carrito",
+  "version": "1.0.0",
+  "description": "Carrito para Solicitar Pedidos a Bodega",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IMR",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-handlebars": "^8.0.1",
+    "nodemon": "^3.1.4"
+  }
+}
